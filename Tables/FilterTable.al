@@ -7,6 +7,7 @@ table 50020 FilterTable
         field(1;"No."; Code[20])
         {
             DataClassification = ToBeClassified;
+caption = 'No.';
             
         }
         field(2; Name; Text[150])
