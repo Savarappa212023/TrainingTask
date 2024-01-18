@@ -13,6 +13,7 @@ caption = 'No.';
         field(2; Name; Text[150])
         {
             DataClassification = ToBeClassified;
+          caption = 'Name';
         }
         field(3; salary; Decimal)
         {
